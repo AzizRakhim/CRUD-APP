@@ -1,0 +1,16 @@
+{
+  "bookList": [
+    {
+      "id": 2,
+      "name": "Chip 'n Dale's Rescue Rangers",
+      "author": "Walt Disney Television Animation",
+      "price": 3333
+    },
+    {
+      "id": "ac0d0824-8ded-4306-9988-6a08fafdc78c",
+      "name": "Hercules: The Animated Series",
+      "author": "Walt Disney Television Animation",
+      "price": 2222
+    }
+  ]
+}
